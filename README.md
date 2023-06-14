@@ -1,3 +1,3 @@
-### Kevin St.Onge - Full Stack web developer!
+### hello world!
 
-I love learning and solving problems with code! I'm always learning and I am currently seeking employment as a full-stack developer.
+learning is what you are, resistance is futile.
